@@ -1,0 +1,4 @@
+name: TPSPolice
+version: '1.0'
+main: org.kunhezzz.tPSPolice.TPSPolice
+api-version: '1.21'
